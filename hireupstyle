@@ -1,0 +1,30 @@
+
+
+a:link	{
+	background-color:#343a40;
+}
+a:visited	{
+	background-color:none;
+}
+a:hover	{
+	background-color:grey;
+}
+a:active	{
+	background-color:lightgray;
+}
+    nav {
+
+		
+	}
+	
+	.btn { color:#003366;
+		
+	}
+	
+body	{
+        background-color: blue;
+		border-style:solid;
+		border-color:gold;
+		border:20px solid gold
+		
+}
